@@ -1,6 +1,6 @@
 
 This is a project setup example for how to use TypeScript and JSX
-without npm, webpack, React or similar libraries.
+without npm, Webpack, React or similar heavy libraries. See [my article on Medium](https://medium.com/@victor.dramba/can-you-do-jsx-without-react-88fb26b4e349) for more details.
 
 Instead, this is using [esbuild](https://github.com/evanw/esbuild), a faster JavaScript bundler, transpiler
 written in [Go](https://go.dev/). Esbuild supports TypeScript out of the box with no dependencies.
